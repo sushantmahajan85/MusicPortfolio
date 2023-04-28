@@ -168,7 +168,8 @@
   /* About start */
   #about-me {
     height: unset;
-    padding-top: 51px;
+    padding-top: 60px;
+    padding-bottom: 55px;
   }
   .about-wrapper {
     flex-direction: column-reverse;
