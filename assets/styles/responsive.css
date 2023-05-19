@@ -213,7 +213,7 @@
   .gallery-button {
     display: flex;
     width: 80vw;
-    background-color: #d07e78;
+    background-color: rgb(182, 149, 124);
     color: white;
     font-family: Raleway, sans-serif;
     height: 50px;
